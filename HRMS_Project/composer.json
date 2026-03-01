@@ -1,0 +1,11 @@
+{
+    "name": "hrms/horyzon",
+    "description": "Horyzon HRMS",
+    "require": {
+        "php": ">=7.4",
+        "lbuchs/webauthn": "^2.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

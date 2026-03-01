@@ -1,0 +1,5 @@
+user: admin
+pass: password@A1
+
+http://localhost/HRMS_Project/login.php?timeout=1
+
